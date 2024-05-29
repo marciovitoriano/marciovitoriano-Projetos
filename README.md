@@ -2,7 +2,7 @@
 
 Meu nome é Marcio Vitoriano 
 
--Estou rstudando [Alura](https://www.alura.com.br)
+-Estou estudando [Alura](https://www.alura.com.br)
 
 -Estou desenvolvendo na linguagem JavaScript 
 
