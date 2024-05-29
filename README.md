@@ -6,7 +6,7 @@ Meu nome é Marcio Vitoriano
 
 -Estou desenvolvendo na linguagem JavaScript 
 
--Utilizo ess espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
 
 ### Você pode entrar em contato comigo 📫
