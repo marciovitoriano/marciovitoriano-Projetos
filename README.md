@@ -3,6 +3,7 @@
 Meu nome é Marcio Vitoriano 
 
 -Estou rstudando [Alura](https://www.alura.com.br)
+
 -Estou desenvolvendo na linguagem JavaScript 
 -Utilizo ess espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
